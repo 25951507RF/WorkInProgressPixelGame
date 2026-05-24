@@ -1,0 +1,9 @@
+Geck Games @copyright lolol
+
+"The Singularity"
+24/05/2026 // Day 0
+Idea: 2D RPG / Chracter Focused Storylines
+Deadline: This game has to be completed by August 2026.
+Note: We could make it a mix of top-down and side-scroller. The former being as a means 
+to travel around the map to each level, and the latter used for exploring the levels themselves.
+Style: Pixel Art (Dimensions here if any specific)
