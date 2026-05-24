@@ -13,8 +13,8 @@
   ],
   "name":"Room1",
   "parent":{
-    "name":"RF_Pixel_Game1",
-    "path":"RF_Pixel_Game1.yyp",
+    "name":"Rooms",
+    "path":"folders/Rooms.yy",
   },
   "parentRoom":null,
   "physicsSettings":{
