@@ -37,7 +37,6 @@
   "resources":[
     {"id":{"name":"Ross25-05","path":"notes/Ross25-05/Ross25-05.yy",},},
     {"id":{"name":"rm_devroom","path":"rooms/rm_devroom/rm_devroom.yy",},},
-    {"id":{"name":"spt_debtcollectors","path":"sprites/spt_debtcollectors/spt_debtcollectors.yy",},},
     {"id":{"name":"spt_missingtexture","path":"sprites/spt_missingtexture/spt_missingtexture.yy",},},
   ],
   "resourceType":"GMProject",
