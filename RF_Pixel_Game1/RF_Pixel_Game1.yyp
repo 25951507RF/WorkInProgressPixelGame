@@ -36,8 +36,12 @@
   "name":"RF_Pixel_Game1",
   "resources":[
     {"id":{"name":"Ross25-05","path":"notes/Ross25-05/Ross25-05.yy",},},
+    {"id":{"name":"obj_floor","path":"objects/obj_floor/obj_floor.yy",},},
+    {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},},
     {"id":{"name":"rm_devroom","path":"rooms/rm_devroom/rm_devroom.yy",},},
+    {"id":{"name":"spt_floor","path":"sprites/spt_floor/spt_floor.yy",},},
     {"id":{"name":"spt_missingtexture","path":"sprites/spt_missingtexture/spt_missingtexture.yy",},},
+    {"id":{"name":"spt_player","path":"sprites/spt_player/spt_player.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
